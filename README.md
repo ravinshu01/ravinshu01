@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravinshu01
-- 👀 I’m interested in android project,python code and data management
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web development project
+- 🌱 I’m currently worked on node.js
 - 💞️ I’m looking to collaborate on any work feild
 
 <!---
